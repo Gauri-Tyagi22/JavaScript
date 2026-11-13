@@ -10,6 +10,12 @@ console.log(valueNumber);  //NaN=> not a number
 //1=>true 0=>false
 //""=>false
 //"Gauri"=>true
+// ************operations***************
 
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
 
 
