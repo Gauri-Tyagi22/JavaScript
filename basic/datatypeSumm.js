@@ -4,3 +4,7 @@
 //Array,objects,Functions
 
 // javascript is dynamic typed language
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack(Primitive), Heap(Non-Primitive)
